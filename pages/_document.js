@@ -14,7 +14,8 @@ export default class MyDocument extends Document {
       <html lang='en'>
         <Head>
           <meta name='viewport' content='width=device-width, initial-scale=1' />
-          <title>Collector web</title>
+          <link href='https://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu:300,400,400i,700' rel='stylesheet' />
+          <title>Indexable</title>
         </Head>
         <body>
           <Main />
