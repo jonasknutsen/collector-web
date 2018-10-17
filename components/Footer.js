@@ -8,6 +8,7 @@ class Footer extends React.Component {
         <style jsx>{`
           footer {
             text-align: center;
+            padding: 1rem;
           }
         `}</style>
       </footer>
